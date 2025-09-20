@@ -1,0 +1,12 @@
+#ar-button {
+  width: 120px;
+  height: 60px;
+  position: absolute;
+  right: 35px;
+  bottom: 35px;
+  background-color: rgb(64, 203, 203);
+  color: white;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
